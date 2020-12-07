@@ -1,0 +1,30 @@
+{
+  "name": "developing4life",
+  "version": "2.0.0",
+  "description": "profile",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StephenBrooks220413/developing4life.git"
+  },
+  "keywords": [
+    "developer",
+    "web",
+    "design",
+    "web",
+    "developer",
+    "for",
+    "hire",
+    "wbe",
+    "developer"
+  ],
+  "author": "Stephen Brooks",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/StephenBrooks220413/developing4life/issues"
+  },
+  "homepage": "https://github.com/StephenBrooks220413/developing4life#readme"
+}
